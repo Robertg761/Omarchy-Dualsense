@@ -48,10 +48,10 @@ For a local checkout, run:
 ./install.sh
 ```
 
-For a shared Git repository, set `REPOSITORY_URL` to its published GitHub URL, add it with Omarchy's plugin manager, then run setup from the installed checkout:
+Install from GitHub with Omarchy's plugin manager, then run setup from the installed checkout:
 
 ```sh
-omarchy plugin add "$REPOSITORY_URL" --enable
+omarchy plugin add https://github.com/Robertg761/Omarchy-Dualsense --enable
 cd ~/.config/omarchy/plugins/io.github.robertg761.dualsense
 ./install.sh
 ```

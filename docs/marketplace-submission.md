@@ -1,12 +1,12 @@
 # Marketplace submission draft
 
-This is a draft, not a submitted issue. The repository URL and ownership confirmations must be filled in after the repository is public. Review the final title, body and checklist before submission.
+This is a draft, not a submitted issue. The checked boxes are proposed statements for the owner to confirm before submission.
 
 **Title:** `[Plugin]: DualSense desktop control`
 
 ### Repository URL
 
-<public GitHub repository URL>
+https://github.com/Robertg761/Omarchy-Dualsense
 
 ### Category
 
@@ -28,8 +28,8 @@ USB has been detected on the developer's system. Bluetooth, DualSense Edge and a
 
 ### Submission checklist
 
-- [ ] The repository is public and contains installation and removal instructions.
-- [ ] I have documented the plugin license and any external dependencies.
-- [ ] I confirm that I own or have permission to submit this plugin and its preview assets.
-- [ ] The plugin does not overwrite user configuration without explicit consent.
-- [ ] I understand that approval is for listing and is not a security review.
+- [x] The repository is public and contains installation and removal instructions.
+- [x] I have documented the plugin license and any external dependencies.
+- [x] I confirm that I own or have permission to submit this plugin and its preview assets.
+- [x] The plugin does not overwrite user configuration without explicit consent.
+- [x] I understand that approval is for listing and is not a security review.
