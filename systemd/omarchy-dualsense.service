@@ -1,0 +1,13 @@
+[Unit]
+Description=DualSense desktop controls for Omarchy
+PartOf=graphical-session.target
+After=graphical-session.target
+
+[Service]
+Type=simple
+ExecStart=%h/.local/share/omarchy-dualsense/controller.py
+Restart=on-failure
+RestartSec=2
+
+[Install]
+WantedBy=graphical-session.target

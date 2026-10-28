@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.robertg761.dualsense",
+  "name": "DualSense desktop control",
+  "version": "0.1.0",
+  "author": "Robert",
+  "description": "DualSense controller support and editable shortcuts for Omarchy.",
+  "kinds": [
+    "service"
+  ],
+  "entryPoints": {
+    "service": "Service.qml"
+  },
+  "license": "MIT"
+}
